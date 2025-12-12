@@ -1,0 +1,10 @@
+*                   # ignore everything
+!.gitignore         # keep the gitignore file itself
+!main.py
+!requirements.txt
+
+# Optional explicit ignores (good practice)
+.venv/
+.env
+.idea/
+__pycache__/
